@@ -1,7 +1,7 @@
 # Galectin-1 Invasive Subpopulations
 
 ## Data Availability
-The raw sequencing data and annotated matricies used in this project are availible at GEO under GSE328755
+The raw sequencing data and annotated matricies used in this project are availible at GEO under GSE328755. Additonal data needed to create graphs deposited at Texas Data Repository https://dataverse.tdl.org/dataverse/interface-invasion
 
 ## Data Acquisition
 Patient-derived GBM cell lines, HK177, HK408, and GS54 were used in these studies. Cells were encapulated in HA-based hydrogels mimicking the stiffness of tumor and peritumoral brain tissue. 

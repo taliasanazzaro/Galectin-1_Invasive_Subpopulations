@@ -1,3 +1,6 @@
 Sequencing/IPA_output/
 Sequencing/mast_gs54/
 Sequencing/mast_hk177/
+Sequencing/barcode_outs/
+Sequencing/GS54_cleaned.h5ad
+Sequencing/HK177_02_processed.h5ad
